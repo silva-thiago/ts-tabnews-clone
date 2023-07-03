@@ -1,0 +1,32 @@
+{
+	"name": "ts-tabnews-clone",
+	"description": "https://www.tabnews.com.br implementation for https://curso.dev",
+	"version": "0.0.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "next build",
+		"start": "next start",
+		"lint": "next lint"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/silva-thiago/ts-tabnews-clone.git"
+	},
+	"keywords": [
+		"curso.dev",
+		"tabnews",
+		"tabnews clone"
+	],
+	"author": "Thiago Silva <thiago.silva@imd.ufrn.br> (https://github.com/silva-thiago/ts-tabnews-clone)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/silva-thiago/ts-tabnews-clone/issues"
+	},
+	"homepage": "https://github.com/silva-thiago/ts-tabnews-clone#readme",
+	"dependencies": {
+		"next": "^13.1.6",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0"
+	}
+}
